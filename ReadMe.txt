@@ -1,0 +1,1 @@
+This project is a digital potentiometer, it has LED display and buttons for easy configuration. It based on Arduino Uno, AD5142BRUZ100. The output ranging from 1K to 190K with 1KOhm granularity, the accuracy is less than +-0.2KOhm
